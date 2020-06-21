@@ -45,5 +45,13 @@
   },
   "dependencies": {
     "normalize.css": "^8.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakub-fojt/webpack-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakub-fojt/webpack-test/issues"
+  },
+  "homepage": "https://github.com/jakub-fojt/webpack-test#readme"
 }
